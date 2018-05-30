@@ -1,0 +1,11 @@
+[
+  {
+    "type":"mysql",
+    "host":"HOST",
+    "dbname":"DBNAME",
+    "user":"USER",
+    "port":"PORT",
+    "pass":"PASSWORD"
+
+  }
+]
