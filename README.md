@@ -2,7 +2,7 @@ PasMPasVPasC
 ============
 ![beweb](https://img.shields.io/badge/BeWeb-Engine-red.svg)
 ![Kiwi](https://img.shields.io/badge/Kiwi-Tested-green.svg)
-![Loic](https://img.shields.io/badge/Loïc's jokes-Approved-orange.svg)
+![Loic](https://img.shields.io/badge/Lo%C3%AFc%27s%20jokes-Approved-orange.svg)
 
 PasMPasVPasC est un framework mvc tout petit pour des projets à BeWeb. Un repo "privé" du developpement se situe [ICI](http://git.kiwinetwork.xyz/yppdr/php-mvc/)
 
